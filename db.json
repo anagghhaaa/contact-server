@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "email": "sujith@gmail.com",
+      "username": "sujith",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "ajith",
+      "email": "ajith@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "Anu",
+      "email": "anu@gmail.com",
+      "password": "an123",
+      "id": 3
+    },
+    {
+      "username": "Anagha",
+      "email": "anagha@gmail.com",
+      "password": "anu12",
+      "id": 4
+    },
+    {
+      "username": "Amal",
+      "email": "amal@gmail.com",
+      "password": "am123",
+      "id": 5
+    },
+    {
+      "username": "Ammu",
+      "email": "ammu@gmail.com",
+      "password": "am12",
+      "id": 6
+    }
+  ],
+  "contact": [
+    {
+      "slno": "1",
+      "name": "Anagha o",
+      "phoneno": "9846136036",
+      "id": 1
+    },
+    {
+      "slno": "2",
+      "name": "Amith",
+      "phoneno": "9876543223",
+      "id": 2
+    },
+    {
+      "slno": "3",
+      "name": "Sara",
+      "phoneno": "9876543459",
+      "id": 3
+    },
+    {
+      "slno": "4",
+      "name": "Anamika",
+      "phoneno": "98765434567",
+      "id": 4
+    }
+  ]
+  
+}
